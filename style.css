@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-size: 80px;
+}
+
+.list-header {
+    background-color: silver;
+    height: 40px;
+    padding-top: 10px;
+}
+
+#dog-love {
+    border: 10px solid green;
+    background-color: pink;
+}
+
+p:nth-child() {
+    background-color: bisque;
+}
+
+[type="text"] {
+    width: 20rem;
+    height: 2rem;
+    border: white;
+    background-color: lavender;
+}
