@@ -1,5 +1,10 @@
+body {
+    background-image: url("/20180120_105946-2.jpg");
+    background-size: cover;
+}
+
 h1 {
-    color: red;
+    color: red !important;
     font-size: 80px;
 }
 
@@ -23,4 +28,14 @@ p:nth-child() {
     height: 2rem;
     border: white;
     background-color: lavender;
+}
+
+#image {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 50%;
 }
